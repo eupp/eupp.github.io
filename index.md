@@ -37,7 +37,9 @@ with the main focus on the semantics of **concurrent programs** and **weak memor
 &emsp;
 <img alt="ORCID logo" src="{{ site.url }}/img/orcid.png" width="16" height="16" /> [ORCID](https://orcid.org/0000-0003-2715-1143)
 &emsp;
-<img alt="GitHub logo" src="{{ site.url }}/img/github.png" width="16" height="16" /> [GitHub](https://github.com/eupp/)             
+<img alt="GitHub logo" src="{{ site.url }}/img/github.png" width="16" height="16" /> [GitHub](https://github.com/eupp/)
+
+<img alt="Gmail logo" src="{{ site.url }}/img/gmail.png" width="18" height="12" /> [evgeniy.moiseenko@jetbrains.com](mailto:evgeniy.moiseenko@jetbrains.com)
 
 </div>
 
