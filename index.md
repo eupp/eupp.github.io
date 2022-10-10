@@ -33,7 +33,7 @@ I am a researcher at [JetBrains Research](https://research.jetbrains.org/)
 in the field of **programming language theory** and **formal methods**
 with the main focus on the semantics of **concurrent programs** and **weak memory models**.
 
-<img alt="Scholar" src="{{ site.url }}/img/scholar.png" width="16" height="16" /> [Scholar](https://scholar.google.com/citations?user=3kmkWmIAAAAJ&hl=sr&oi=ao)
+<img alt="Scholar" src="{{ site.url }}/img/scholar.png" width="16" height="16" /> [Scholar](https://scholar.google.com/citations?user=3kmkWmIAAAAJ&hl=en&oi=ao)
 &emsp;
 <img alt="ORCID logo" src="{{ site.url }}/img/orcid.png" width="16" height="16" /> [ORCID](https://orcid.org/0000-0003-2715-1143)
 &emsp;
