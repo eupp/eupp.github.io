@@ -23,11 +23,11 @@ viktor-url: https://people.mpi-sws.org/~viktor/
 
 <div style="display:flex;margin-bottom:20px">
 
-<div style="flex:30%;">
-  <img align="left" width="180" height="200" src="{{ site.url }}/img/me.jpg">
+<div style="flex:40%;">
+  <img align="left" src="{{ site.url }}/img/me.jpg">
 </div>
 
-<div style="flex:70%;">
+<div style="flex:60%;padding-left:5%">
 
 I am a researcher at [JetBrains Research](https://research.jetbrains.org/)
 in the field of **programming language theory** and **formal methods**
