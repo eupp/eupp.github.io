@@ -4,14 +4,23 @@
 
 layout: default
 
-anton-name: Anton Podkopaev
-anton-url: https://podkopaev.net/
+matteo-meluzzi-name: Matteo Meluzzi
+
+innokentii-meleshchenko-name: Innokentii Meleshchenko
+
+ivan-kabashnyi-name: Ivan Kabashnyi
 
 orestis-name: Orestis Melkonian
 orestis-url: https://omelkonian.github.io/
 
+anton-name: Anton Podkopaev
+anton-url: https://podkopaev.net/
+
 ori-name: Ori Lahav
 ori-url: https://www.cs.tau.ac.il/~orilahav/
+
+soham-name: Soham Chakraborty
+somam-url: https://www.st.ewi.tudelft.nl/sschakraborty/
 
 michalis-name: Michalis Kokologiannakis
 michalis-url: https://people.mpi-sws.org/~michalis/
@@ -31,7 +40,7 @@ viktor-url: https://people.mpi-sws.org/~viktor/
 
 I am a researcher at [JetBrains Research](https://research.jetbrains.org/)
 in the field of **programming language theory** and **formal methods**
-with the main focus on the semantics of **concurrent programs** and **weak memory models**.
+with the main focus on the semantics and verification of **concurrent programs**.
 
 <img alt="Scholar" src="{{ site.url }}/img/scholar.png" width="16" height="16" /> [Scholar](https://scholar.google.com/citations?user=3kmkWmIAAAAJ&hl=en&oi=ao)
 &emsp;
@@ -48,6 +57,12 @@ with the main focus on the semantics of **concurrent programs** and **weak memor
 ### Selected Publications
 
 * * *
+
+* [Relaxed Memory Concurrency Re-executed]({{ site.url }}/papers/popl2025-xmm.pdf) \
+  Evgenii Moiseenko, {{ page.matteo-meluzzi-name }}, {{ page.innokentii-meleshchenko-name }}, {{ page.ivan-kabashnyi-name }},
+  [{{ page.anton-name }}]({{ page.anton-url }}), [{{ page.soham-name }}]({{ page.soham-url }}) \
+  **POPL 2025** \
+  [[Full paper with the technical appendix]]({{ site.url }}/papers/popl2025-xmm-full.pdf)
 
 * [Model Checking for a Multi-Execution Memory Model]({{ site.url }}/papers/oopsla2022-wmc.pdf) \
   Evgenii Moiseenko, [{{ page.michalis-name }}]({{ page.michalis-url }}), [{{ page.viktor-name }}]({{ page.viktor-url }}) \
