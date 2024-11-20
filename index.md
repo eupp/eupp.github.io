@@ -62,7 +62,7 @@ with the main focus on the semantics and verification of **concurrent programs**
   Evgenii Moiseenko, {{ page.matteo-meluzzi-name }}, {{ page.innokentii-meleshchenko-name }}, {{ page.ivan-kabashnyi-name }},
   [{{ page.anton-name }}]({{ page.anton-url }}), [{{ page.soham-name }}]({{ page.soham-url }}) \
   **POPL 2025** \
-  [[Full paper with the technical appendix]]({{ site.url }}/papers/popl2025-xmm-full.pdf)
+  [[Technical appendix]]({{ site.url }}/papers/popl2025-xmm-apdx.pdf)
 
 * [Model Checking for a Multi-Execution Memory Model]({{ site.url }}/papers/oopsla2022-wmc.pdf) \
   Evgenii Moiseenko, [{{ page.michalis-name }}]({{ page.michalis-url }}), [{{ page.viktor-name }}]({{ page.viktor-url }}) \
