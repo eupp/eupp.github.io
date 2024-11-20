@@ -20,7 +20,7 @@ ori-name: Ori Lahav
 ori-url: https://www.cs.tau.ac.il/~orilahav/
 
 soham-name: Soham Chakraborty
-somam-url: https://www.st.ewi.tudelft.nl/sschakraborty/
+soham-url: https://www.st.ewi.tudelft.nl/sschakraborty/
 
 michalis-name: Michalis Kokologiannakis
 michalis-url: https://people.mpi-sws.org/~michalis/
