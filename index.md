@@ -73,7 +73,7 @@ with the main focus on the semantics and verification of **concurrent programs**
 
 * [Testing concurrent algorithms on JVM with Lincheck and IntelliJ IDEA]({{ site.url }}/papers/ecoop2024-lincheck-idea.pdf) \
   {{ page.aleksandr-potapov-name }}, {{ page.maksim-zuev-name }}, Evgenii Moiseenko, [{{ page.nikita-koval-name }}]({{ page.nikita-koval-url }}) \
-  **IISTA/ECOOP 2024 Tool Demonstrations Track** \
+  **IISTA/ECOOP Tool Demonstrations Track 2024** \
   *Distinguished Tool Demo Award* \
   [[Demonstration video]](https://jb.gg/lincheck-demo-ecoop24)
 
