@@ -72,10 +72,10 @@ with the main focus on the semantics and verification of **concurrent programs**
   [[Technical appendix]]({{ site.url }}/papers/popl2025-xmm-apdx.pdf) [[Artifact]](https://zenodo.org/records/13912067)
 
 * [Testing concurrent algorithms on JVM with Lincheck and IntelliJ IDEA]({{ site.url }}/papers/ecoop2024-lincheck-idea.pdf) \
-  {{ page.aleksandr-potapov-name }}, {{ page.maksim-zuev-name }}, Evgenii Moiseenko, [{{ page.nikita-koval-name }}]({{ nikita-koval-url }})
+  {{ page.aleksandr-potapov-name }}, {{ page.maksim-zuev-name }}, Evgenii Moiseenko, [{{ page.nikita-koval-name }}]({{ page.nikita-koval-url }}) \
   **IISTA/ECOOP 2024 Tool Demonstrations Track** \
   *Distinguished Tool Demo Award* \
-  [[Demonstration video]](jb.gg/lincheck-demo-ecoop24)
+  [[Demonstration video]](https://jb.gg/lincheck-demo-ecoop24)
 
 * [Model Checking for a Multi-Execution Memory Model]({{ site.url }}/papers/oopsla2022-wmc.pdf) \
   Evgenii Moiseenko, [{{ page.michalis-name }}]({{ page.michalis-url }}), [{{ page.viktor-name }}]({{ page.viktor-url }}) \
