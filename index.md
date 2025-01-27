@@ -69,7 +69,7 @@ with the main focus on the semantics and verification of **concurrent programs**
   Evgenii Moiseenko, {{ page.matteo-meluzzi-name }}, {{ page.innokentii-meleshchenko-name }}, {{ page.ivan-kabashnyi-name }},
   [{{ page.anton-name }}]({{ page.anton-url }}), [{{ page.soham-name }}]({{ page.soham-url }}) \
   **POPL 2025** \
-  *Distinguished Paper Award* \ 
+  *Distinguished Paper Award* \
   [[Technical appendix]]({{ site.url }}/papers/popl2025-xmm-apdx.pdf) [[Artifact]](https://zenodo.org/records/13912067)
 
 * [Testing concurrent algorithms on JVM with Lincheck and IntelliJ IDEA]({{ site.url }}/papers/ecoop2024-lincheck-idea.pdf) \
